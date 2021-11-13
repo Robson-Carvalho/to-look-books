@@ -1,0 +1,14 @@
+{
+  "name": "project-of-book-in-node",
+  "version": "1.0.0",
+  "description": "Instruções\r *",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Robson Carvalho de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
